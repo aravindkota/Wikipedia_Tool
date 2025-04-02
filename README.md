@@ -54,7 +54,7 @@ To start the chatbot with Chainlit, run:
 ▶️ Running the App
 
 ```bash
-chainlit run main.py
+chainlit run app.py
 ```
 
 Open the URL displayed in the terminal to chat with the bot in your browser.
